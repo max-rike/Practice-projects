@@ -1,11 +1,16 @@
 
 body{
+    font-family: EightBit Atari-Regular;
     color: black;
     background: #5B7CA4;
 }
 
 img{
-    border: 2px solid black;
-    cursor:none;
+    border: 2px solid #A4835B;
   
+  
+}
+li{
+   
+    font-size: 30;
 }
